@@ -1,0 +1,19 @@
+{
+  "name": "Hackodisha Guide",
+  "short_name": "Hackodisha Guide",
+  "icons": [
+    {
+      "src": "/logoHO.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logoHO.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#fff",
+  "background_color": "#fff",
+  "display": "standalone"
+}
