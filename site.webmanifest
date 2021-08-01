@@ -1,6 +1,9 @@
 {
-  "name": "Hackodisha Guide",
+  "name": "Hackodisha's guide, Hackodisha celebrating diamond jubliee of NIT Rourkela | Hackathon",
   "short_name": "Hackodisha Guide",
+  "start_url": "https://guide.hackodisha.xyz",
+  "lang":"en",
+  "categories": ["Hackodisha","Hackathon","NIT Rourkela", "Odisha", "Hackathon2021","India", "Developers" , "Webwiz"],
   "icons": [
     {
       "src": "/logoHO.png",
@@ -15,5 +18,23 @@
   ],
   "theme_color": "#fff",
   "background_color": "#fff",
-  "display": "standalone"
+  "display": "standalone",
+  "related_applications": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/hackodisha/",
+    },
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/webwiz.nitr/"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/hackodisha"
+    },
+    {
+      "platform": "linkedIn",
+      "url": "https://www.linkedin.com/company/hack-odisha/"
+    }
+  ]
 }
